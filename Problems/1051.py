@@ -1,6 +1,3 @@
-from unittest import removeResult
-
-
 valor = input()
 n = 0
 if float(valor) <= 2000.00:
