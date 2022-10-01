@@ -1,3 +1,5 @@
-lista = [1,2,3,4,5,6]
+from random import randint
 
-print(lista[0:2])
+n = randint(0, 10000)
+
+print(n)
